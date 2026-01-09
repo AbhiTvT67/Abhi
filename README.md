@@ -2,7 +2,7 @@
 <!DocTYPE html>
 <html>
 <head>
-<title>My first Github website(/titlle)
+<Hello>My first Github website(/Hello)
 </head>
 <body>
 <h!>Welcome to my website </h!>
